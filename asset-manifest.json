@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Countries_And_Details/static/css/main.e721fb32.css",
+    "main.js": "/Countries_And_Details/static/js/main.0b08476d.js",
+    "static/js/787.9c2a7c98.chunk.js": "/Countries_And_Details/static/js/787.9c2a7c98.chunk.js",
+    "index.html": "/Countries_And_Details/index.html",
+    "static/media/icon-moon.svg": "/Countries_And_Details/static/media/icon-moon.3a65ea2851fb7d9a49cb32ae83cf28f6.svg",
+    "static/media/arrow-left.svg": "/Countries_And_Details/static/media/arrow-left.a4f3a70db9145afa93c912f494c8d267.svg",
+    "static/media/search-icon-dark.svg": "/Countries_And_Details/static/media/search-icon-dark.9e1444f432351e848053e8a78b879a9e.svg",
+    "static/media/arrow-left-white.svg": "/Countries_And_Details/static/media/arrow-left-white.8d279a6a2dba42c0bc0991568ec31b32.svg",
+    "static/media/search-icon-white.svg": "/Countries_And_Details/static/media/search-icon-white.7323df73bb46abf08c4d7bc83ba346f5.svg",
+    "static/media/moon.svg": "/Countries_And_Details/static/media/moon.7f5f0c5ef6032b61d24c913493cba07f.svg",
+    "main.e721fb32.css.map": "/Countries_And_Details/static/css/main.e721fb32.css.map",
+    "main.0b08476d.js.map": "/Countries_And_Details/static/js/main.0b08476d.js.map",
+    "787.9c2a7c98.chunk.js.map": "/Countries_And_Details/static/js/787.9c2a7c98.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e721fb32.css",
+    "static/js/main.0b08476d.js"
+  ]
+}
