@@ -15,7 +15,6 @@ const Details = ({
     navigate('/')
   }
   
-
     let names;
     let flags;
     let nativeName;
@@ -68,7 +67,7 @@ const Details = ({
         <div className='detail-texts'>
           <div>
             <h5>Native Name: <span>{nativeName}</span></h5>
-            <h5>Population: <span>{Population.toLocaleString()}</span></h5>
+            <h5>Population: <span>{Population?.toLocaleString()}</span></h5>
             <h5>Region: <span>{region}</span></h5>
             <h5>Sub Region: <span>{subRegion}</span></h5>
             <h5>Capital: <span>{capital}</span></h5>

@@ -1,6 +1,4 @@
 import React from 'react'
-import "animate.css/animate.min.css";
-import ScrollAnimation from 'react-animate-on-scroll'
 
 const Card = ({
   themeElement, index, 
@@ -15,8 +13,6 @@ const Card = ({
   const populations = population.toLocaleString()
     
   return (
-    <ScrollAnimation animateIn='fadeInOut'
-    animateOut='fadeInOut'  delay={400} className='card'>
       <div className='card box-shadow' style={themeElement} key={index} onClick={showDetailsHandler}>
         <div className='img-container'>
             <img src={flag} alt="" className='card-img' />
@@ -27,8 +23,7 @@ const Card = ({
             <p>region: <span> {region}</span></p>
             <p>Capital: <span> {capital}</span></p>
         </div>
-      </div>
-    </ScrollAnimation>    
+      </div>  
   )
 }
 
